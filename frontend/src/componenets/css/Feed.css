@@ -1,0 +1,7 @@
+.feed{
+    margin-left: 18%;
+    display: flex;
+    flex-direction: column;
+    flex: 0.8;
+    /* align-content: center; */
+}
